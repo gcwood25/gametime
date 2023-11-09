@@ -1,0 +1,31 @@
+#What will (likely) be the title of your project?
+Super Mario
+
+#In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+A game that allows you to play super mario bros and dodge obstacles.
+
+#In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+The Python-based Super Mario game will allow players to control a Mario player, collecting coins while overcoming obstacles dodge enemies. 
+#It will feature side-scrolling gameplay, a one/two level design, and familiar elements from the original game such as pipes, bricks, and enemies like a goomba.
+Users will run the Python script within their preferred Python development environment to play the game.
+
+#If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+N/A
+#If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+N/A
+
+#In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+I will have mario dodge obstacles like pipes and bricks with one level.
+
+#In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+I will have mario dodge obstacles like pipes and bricks with two levels.
+
+#In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+I can get picutres of the game characters and props with having two levels of dodging obstacles and enemies such as the goombas.
+
+#In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+To develop a Super Mario game in Python, you'll likely need to acquire skills in game development, particularly using libraries like Pygame for graphics and event handling. 
+Understanding game physics for movements and collisions would be crucial. I might need to dive into object-oriented programming to make the different elements of the game.
+Research topics would include 2D game design principles, collision detection algorithms(when I player dies, you restart, character movement mechanics(which I do have down mostly), and level design strategies to ensure an engaging player experience. 
+Additionally, understanding visual effects to also make it more engaging for the players.
